@@ -1,4 +1,8 @@
- # 🗂Required Tasks:
+ # 📱Set Card Game in SwiftUI:
+ 
+![SetCard Game ](SetGameTest.gif)
+
+## 🗂Required Tasks:
  
 ✅ Implement a game of solo (i.e. one player) Set. <br />
 ✅ As the game play progresses, try to keep all the cards visible and as large as possible. In other words, cards should get smaller (or larger) as more (or fewer) appear on- screen at the same time. It’s okay if you want to enforce a minimum size for your cards and then revert to scrolling when there are a very large number of cards. Whatever way you deal with “lots of cards” on screen, it must always still be possible to play the game (i.e. cards must always be recognizable, even when all 81 are in play at the same time). <br />
@@ -28,7 +32,7 @@
 ✅ You must use a closure (i.e. a function as an argument) as a meaningful part of your solution. <br />
 ✅ Your UI should work in portrait or landscape on any iOS device. This probably will not require any work on your part (that’s part of the power of SwiftUI), but be sure to experiment with running on different simulators/Previews in Xcode to be sure. <br />
 
-# 📎Extra Credit:
+## 📎Extra Credit:
 
 ✅1. Draw the actual squiggle instead of using a rectangle. <br />
 ✅2. Draw the actual striped “shading” instead of using a semi-transparent color. <br />

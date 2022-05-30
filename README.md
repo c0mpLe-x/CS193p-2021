@@ -8,8 +8,8 @@
 ✅ 🎧Lecture 5: Properties Layout @ViewBuilder <br />
 ✅ 🎧Lecture 6: Protocols Shapes <br />
 ✅ 🎧Lecture 7: ViewModifier Animation <br />
-♻️ 🎧Lecture 8: Animation Demo <br />
-🎧Lecture 9: EmojiArt Drag/Drop <br />
+✅ 🎧Lecture 8: Animation Demo <br />
+✅Lecture 9: EmojiArt Drag/Drop <br />
 🎧Lecture 10: Gestures <br />
 🎧Lecture 11: Persistence Error Handling <br />
 🎧Lecture 12: Binding Sheet Navigation EditMode <br />

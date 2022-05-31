@@ -1,6 +1,6 @@
  # 📱Animated Set Card Game in SwiftUI:
 
-![SetCard Game ](Animated SetGame.gif)
+![Animated SetGame.gif](https://github.com/c0mpLe-x/CS193p-2021/blob/main/Assignment%20IV%20Animated%20Set/Animated%20SetGame.gif?raw=true)
 
 ## 🗂Required Tasks:
 

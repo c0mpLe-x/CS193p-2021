@@ -1,6 +1,6 @@
  # 📱Animated Set Card Game in SwiftUI:
 
-![SetCard Game ](📱Animated SetGame.gif)
+![SetCard Game ](Animated SetGame.gif)
 
 ## 🗂Required Tasks:
 

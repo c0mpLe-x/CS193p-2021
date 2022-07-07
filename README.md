@@ -11,8 +11,8 @@
 ✅ 🎧Lecture 8: Animation Demo <br />
 ✅ 🎧Lecture 9: EmojiArt Drag/Drop <br />
 ✅ 🎧Lecture 10: Gestures <br />
-♻️ 🎧Lecture 11: Persistence Error Handling <br />
-♻️ 🎧Lecture 12: Binding Sheet Navigation EditMode <br />
+✅ 🎧Lecture 11: Persistence Error Handling <br />
+✅ 🎧Lecture 12: Binding Sheet Navigation EditMode <br />
 🎧Lecture 13: Publisher More Persistence <br />
 🎧Lecture 14: Document Architecture <br />
 🎧Lecture 15: UIKit Integration <br />
